@@ -1,0 +1,2 @@
+fastmcp>=0.1.0
+libvirt-python>=9.0.0
